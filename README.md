@@ -2,7 +2,7 @@
 
 ### profile
 
-- application developer (since 2017~)
+- application developer (since 2017)
 
 
 ### skill
@@ -15,7 +15,7 @@
 
 - Ubuntu 20.04.2
 - zsh
-- VSCode
+- VSCode (Vim plugin)
 
 ### interest
 
