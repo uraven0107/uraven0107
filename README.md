@@ -16,6 +16,7 @@
 - Ubuntu 20.04.2
 - zsh
 - VSCode (Vim plugin)
+- IntelliJ IDEA (Ultimate Edition)
 
 ### interest
 
