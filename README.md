@@ -9,7 +9,8 @@
 
 - Java SE
 - PHP (In use at work)
-- Haskell (Currently learning) 
+- Haskell (low skill)
+- Go (low skill)
 
 ### platform
 
@@ -17,9 +18,10 @@
 - zsh
 - VSCode
 - IntelliJ IDEA (Ultimate Edition)
+- vim
 
 ### interest
 
-- Go
 - React
 - TDD
+- Docker
