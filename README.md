@@ -7,17 +7,24 @@
 
 ### skill
 
-- Java SE
+- Java
+  - struts2
+  - spring
 - PHP (In use at work)
+  - cakePHP
+  - laravel
 - Haskell (low skill)
 - Go (low skill)
+- HTML/CSS/Javascript
+  - jQuery
+  - bootstrap
 
 ### platform
 
-- Ubuntu 20.04.2
+- Ubuntu
 - zsh
 - VSCode
-- IntelliJ IDEA (Ultimate Edition)
+- IntelliJ IDEA
 - vim
 
 ### interest
