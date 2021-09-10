@@ -4,31 +4,20 @@
 
 - application developer (since 2017)
 
+- lang
+  - Java
+  - PHP
+  - Go
+  - HTML/CSS/Javascript
+  - Haskell(low skill)
+  - shell(bash/zsh)
 
-### skill
-
-- Java
-  - struts2
-  - spring
-- PHP (In use at work)
-  - cakePHP
-  - laravel
-- Haskell (low skill)
-- Go (low skill)
-- HTML/CSS/Javascript
-  - jQuery
-  - bootstrap
-
-### platform
-
-- Ubuntu
-- zsh
-- VSCode
-- IntelliJ IDEA
-- vim
-
-### interest
-
-- React
-- TDD
-- Docker
+- env
+  - ubuntu
+  - vim
+  - IntelliJ
+  - VSCode
+ 
+- interest
+  - Docker
+  - React
