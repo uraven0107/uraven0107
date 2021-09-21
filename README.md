@@ -1,23 +1,29 @@
 # uraven0107
 
+I like ラーメン :ramen:
+
+ぷ。 三三三　:bowling:
+
 ### profile
 
-- application developer (since 2017)
+- System Engineering(2017~) :gear:
 
-- lang
-  - Java
+- Lang :sound:
+  - Java :two_hearts:
   - PHP
-  - Go
-  - HTML/CSS/Javascript
-  - Haskell(low skill)
+  - golang :two_hearts: 
   - shell(bash/zsh)
 
-- env
-  - ubuntu
-  - vim
-  - IntelliJ
-  - VSCode
+- Env :desktop_computer:
+  - Ubuntu
+  - Vim :two_hearts: 
  
-- interest
+- Interest :thinking:
   - Docker
   - React
+  - Deno
+
+### link
+
+- [blog](https://uraven0107-dev.netlify.app)
+- [twitter](https://twitter.com/uraven_t)
